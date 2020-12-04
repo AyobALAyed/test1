@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>AYOB ALAYED</title>
+
+<link rel="stylesheet" href="home.css" type="text/css">
+  <meta charset="utf-8">
+</head>
+<body>
+<header>
+        <nav class="aa ">
+          <div class="lo">
+            <img src="c.png" alt="My logo!">
+
+          <ul class="ab">
+
+
+
+  <li class="bb"><a href="about.html" class="aa">About Me</a></li>
+  <li><a href="it.html" class="aa">it debartment</a></li>
+  <li><a href="cs.html" class="aa">Cs debartment</a></li>
+  <li><a href="langu.html" class="aa">My languge</a></li>
+  <li><a href="skils.html" class="aa">My skils</a></li>
+  <li><a href="book.html" class="aa">Book i readet</a></li>
+  <li><a href="raigon.html" class="aa"> My living place</a></li>
+  <li><a href="faver.html" class="aa">My favorite</a></li>
+  <li><a href="contact.html" class="aa">Contact me</a></li>
+    </ul></div>
+</nav>
+<div class="cd">
+<br><br>
+<h2>this is project for IT271</h2>
+</div>
+
+</header>
+
+</body>
+</html>
+---------------------------------------------------
+*
+{
+  margin : 0;
+  padding :0;
+}
+header{
+  background-image :linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("logo.png");
+
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.aa li{
+  texet-decoration :none;
+  display : inline-block;
+}
+.f{
+  text-align : center;
+  text-decoration : b;
+  text-size : 180px;
+  font-size: 22px;
+  font-style: oblique;
+  color: white;
+}
+a {
+color : black;
+text-decoration : none;
+text-align: center;
+padding: 9px 15px;
+
+  }
+
+  .ab{
+    float : right;
+    list-style: none;
+    margin-top :30px;
+    color: white;
+    text-shadow: 50px;
+  }
+.navbar {
+  margin-top : 0px;
+
+background-color: #0c7488;
+color: white;
+background-size :5px;
+font-size: 19px;
+font-family:  "roboto","sans-serirf";
+}
+.ab li a{
+  color: white;
+  text-decoration: none;
+  color: white;
+}
+.ab li a:hover{
+  border: 3px solid #0d6171d1;
+  color: white;
+}
+.cd{
+  text-align:center;
+position:absolute;
+width: 1100px;
+margin-left: 0px;
+margin-top: 500px;
+color: white;
+  }
+.lo img {
+  width: 150px;
+  height: auto;
+  float: left;
+}
+.h2{
+  text-align: center;
+  color: white;
+}
+.column{
+  text-align: center;
+  color: white;
+}
+.abu{
+  text-align:center;
+position: absolute;
+color: white;
+width: 1100px;
+margin-left: 0px;
+margin-top: 30px;
+text-decoration: color : white;
+font-family: 'Sofia';font-size: 22px;
+text-shadow: 50px;
+
+
+}
+-------------------------------------------
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="home.css" type="text/css">
+    <meta charset="utf-8">
+    <title>favorite</title>
+  </head>
+  <body>
+    <header>
+
+<div class="f"><b>
+  <br><br>
+    <h3>My favorite things in my life</h3>
+    <ol>
+      <li>technolagiys</li>
+      <li>Fotball</li>
+      <li>Vallyball</li>
+      <li>Sweming</li>
+      <li >read a Book</li>
+      <li>eating</li>
+      <li>Sleeping</li>
+      <li>playing video games</li>
+   </ol></div>
+  </header>
+  </body>
+</html>
+-----------------------------------------
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="home.css" type="text/css">
+    <meta charset="utf-8">
+    <title>Languge</title>
+  </head>
+  <body>
+    <header>
+
+<div class="f">
+
+
+<h1>Languge:</h1>
+<p>Languages I speak only two</p>
+<ol>
+  <li>Arabic is Good</li>
+  <li>English but weak</li>
+  <p>But I will learn German and Portuguese in the future</p>
+  <li>Turkish only words I memorized through the series</li>
+</ol></div>
+</header>
+  </body>
+</html>
+----------------------------------------------------
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="home.css" type="text/css">
+    <meta charset="utf-8">
+    <title>My skills</title>
+  </head>
+  <body>
+    <header>
+      <div class="f">
+
+<br>
+    <h3> Nothing out of the ordinary<h3>
+    <br>
+    <h2>Only programming html and c language </h2>
+      <h3>And the design of commercial identities and manuscripts, and these depend on: </h3>
+      <ol>
+        <br>
+        <li>Craftsmanship</li>
+        <br>
+        <li>And the idea</li>
+        <br>
+        <li>And experiments</li>
+        <br>
+        <li>And design software</li>
+        <br>
+        <li>And the value of the work</li>
+      </ol>
+  </div>
+</header>
+  </body>
+</html>
+-------------------------------------
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="home.css" type="text/css">
+    <meta charset="utf-8">
+    <title>the raigon</title>
+  </head>
+  <body>
+    <header>
+
+<div class="f">
+
+<br>
+<h4>i life in</h4>
+<h6>saudi arabia , Qassim,buraydah </h6>
+<br>
+<br>
+<p>and it is hot and dry in summer and cold and dry in winter</p>
+<p>Saudi Arabia is known officially as the Kingdom of Saudi Arabia, and its capital is the city of Riyadh</p>
+<h6>lociton of my country </h6>
+<p>The Kingdom of Saudi Arabia is located in the Middle East region,</p>
+<p> in the southwest of the continent of Asia,</p>
+<p> overlooking the Arabian Gulf from the east and the Red Sea and the Gulf of Aqaba from the west.</p>
+</div>
+  </header>
+</body>
+</html>
+---------------------------------
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="home.css" type="text/css">
+    <meta charset="utf-8">
+    <title>Book</title>
+  </head>
+  <body>
+<header>
+<br><br>
+
+<div class="f">
+    <h3>I am not a good reader, but I have read : </h3>
+<br>
+<ol>
+
+
+  <li>the Holy Qur’an</li> <br>
+  <li>the book “Do not be sad”</li> <br>
+  <li>the book of logic</li> <br>
+  <li>the book The Art of Indifference</li> <br>
+  <li>and many Arab stories.</li> <br>
+
+</ol> </div>
+
+</header>
+  </body>
+</html>
+-------------------------------------------------
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="home.css" type="text/css">
+    <meta charset="utf-8">
+    <title>computer sainc</title>
+  </head>
+  <body>
+    <header>
+<br><br>
+
+<h2 class="h2">What i stady from CS debartment?</h2>
+<div class="row">
+  <div class="column" >
+
+    <h2>languge of programing</h2>
+    <ul>
+      <li>java</li>
+      <li>C</li>
+
+      <li>C++</li>
+    </ul>
+  </div>
+  <div class="column" >
+    <h2>People I have formed a relationship with:</h2>
+  <ol>
+    <li>His doctors</li>
+  <li>  Engineers</li>
+  <li>  Programmers</li>
+    <li>Thinkers</li>
+  </ol>
+  </div>
+</div>
+
+
+</header>
+  </body>
+</html>
+-------------------------------------
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="home.css" type="text/css">
+    <meta charset="utf-8">
+    <title>informtion tachnalogy</title>
+  </head>
+  <body>
+    <header>
+
+    <ol class="abu">
+      <h2>what i stady in it debartment?</h2>
+      <br>
+      <li>I learned a lot of things from her</li>
+      <li>  Databases </li>
+      <li>  Web technology </li>
+      <li> I also aspire to learn more things</li>
+      <li> Like the internet of things</li>
+      <li> And software engineeringe</li>
+      <li> And Python language</li>
+      <li> And JavaScript</li>
+      <li> And the PHP</li>
+    </ol>
+  </header>
+
+  </body>
+</html>
+------------------------------
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="home.css" type="text/css">
+    <meta charset="utf-8">
+    <title>Contact</title>
+  </head>
+  <body>
+    <header>
+
+<div class="abu">
+
+
+    <p>you can conact me in my mail <br> "ayob@gmail.com" </p>
+    <a href="ayobb201@gmail.com" alt="my mail" ></a>
+    <p>and My Phone <br> +966537089956 </p>
+    <br>
+    <p>My Twitter :</p>
+    <a href="https://twitter.com/wildworld0?lang=en">wildworld0</a>
+    <br>
+    <p>My channel in Youtube</p>
+    <a href="https://www.youtube.com/channel/UC_u-3lDIh97UIEEuRHmGmmA"> My channel</a>
+    <p>or You can cam to My Offici </p>
+    <h3>26°21'04.1"N 43°57'47.2"E in Google map :</h3>
+    <br>
+    <a href="https://goo.gl/maps/NdhDvQaKFWStrZEr5" >lociton My Offici </a>
+
+    </div>
+  </header>
+
+  </body>
+</html>
+-------------------------
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="home.css" type="text/css">
+    <meta charset="utf-8">
+    <title>About Me </title>
+  </head>
+  <body>
+    <header>
+
+
+    <h3 class="abu">Porsnal informtion</h3>
+    <br><br>
+
+    <ul class="abu";style:color =" white";><li> My name is Ayoub Al-Ayed</li>
+      <li>I am 21</li>
+      <li>male</li>
+      <li>a single</li>
+      <li> student at Qassim University in the computer department</li>
+      <li>specializing in information technology.</li>
+      <li> I love learning, especially new things.</li>
+      <h5>I also worked for several parties</h5>
+
+        <li>Al Ayed Dates Factory</li>
+        <li>  Al-Ayed Company for rebar</li>
+        <li>  Ayed Al-Ayed Corporation for the supply of raw gypsum</li>
+        <li>  One day foundation for washing furniture</li>
+        <li>  Al-Ayed Factory for Building Materials</li>
+      </ul>
+</header>
+  </body>
+</html>

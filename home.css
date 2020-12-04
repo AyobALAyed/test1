@@ -1,0 +1,98 @@
+*
+{
+  margin : 0;
+  padding :0;
+}
+header{
+  background-image :linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("logo.png");
+
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.aa li{
+  texet-decoration :none;
+  display : inline-block;
+}
+.f{
+  text-align : center;
+  text-decoration : b;
+  text-size : 180px;
+  font-size: 22px;
+  font-style: oblique;
+  color: white;
+}
+a {
+color : black;
+text-decoration : none;
+text-align: center;
+padding: 9px 15px;
+
+  }
+
+  .ab{
+    float : right;
+    list-style: none;
+    margin-top :30px;
+    color: white;
+    text-shadow: 50px;
+  }
+.navbar {
+  margin-top : 0px;
+
+background-color: #0c7488;
+color: white;
+background-size :5px;
+font-size: 19px;
+font-family:  "roboto","sans-serirf";
+}
+
+.Body {
+  border-left: 6px solid red;
+  background-color: lightgrey;
+}
+.ab li a{
+  color: white;
+  text-decoration: none;
+  color: white;
+}
+.ab li a:hover{
+  border: 3px solid #0d6171d1;
+  color: white;
+}
+.cd{
+  text-align:center;
+position:absolute;
+width: 1100px;
+margin-left: 0px;
+margin-top: 500px;
+color: white;
+  }
+.lo img {
+  width: 150px;
+  height: auto;
+  float: left;
+}
+.h2{
+  text-align: center;
+  color: white;
+}
+.column{
+  text-align: center;
+  color: white;
+}
+.abu{
+  text-align:center;
+position: absolute;
+color: white;
+width: 1100px;
+margin-left: 0px;
+margin-top: 30px;
+text-decoration: color : white;
+font-family: 'Sofia';font-size: 22px;
+text-shadow: 50px;
+display:block;
+box-sizing: border-box;
+
+
+}
