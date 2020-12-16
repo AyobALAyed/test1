@@ -3,12 +3,16 @@
   margin : 0;
   padding :0;
 }
+h4{
+  font-family: Copperplate, Papyrus, fantasy;
+}
 header{
   background-image :linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("logo.png");
 
   height: 100vh;
   background-size: cover;
   background-position: center;
+
 }
 .aa li{
   texet-decoration :none;
@@ -16,11 +20,13 @@ header{
 }
 .f{
   text-align : center;
-  text-decoration : b;
-  text-size : 180px;
+  font-style: "oblique";
+  color: #F8CF40;
+  margin-left: 100px;
+  margin-top: 100px;
+  position: absolute;
   font-size: 22px;
-  font-style: oblique;
-  color: white;
+box-sizing: border-box;
 }
 a {
 color : black;
@@ -29,6 +35,17 @@ text-align: center;
 padding: 9px 15px;
 
   }
+
+ p {
+    border: 5px;
+    border-width: medium;
+    text-align-last: 5px;
+    border-left: black;
+    font-family: 'Courier New', monospace;
+
+
+  }
+
 
   .ab{
     float : right;
@@ -46,10 +63,8 @@ background-size :5px;
 font-size: 19px;
 font-family:  "roboto","sans-serirf";
 }
+ body {
 
-.Body {
-  border-left: 6px solid red;
-  background-color: lightgrey;
 }
 .ab li a{
   color: white;
@@ -59,6 +74,15 @@ font-family:  "roboto","sans-serirf";
 .ab li a:hover{
   border: 3px solid #0d6171d1;
   color: white;
+}
+a {
+  text-decoration: underline;
+  color: #E69A8DFF;
+
+}
+.oo{
+  font-size: 34px;
+
 }
 .cd{
   text-align:center;
@@ -73,6 +97,10 @@ color: white;
   height: auto;
   float: left;
 }
+div{
+  border-left: 6px solid rgb(67.8%, 84.7%, 90.2%);
+
+}
 .h2{
   text-align: center;
   color: white;
@@ -82,17 +110,30 @@ color: white;
   color: white;
 }
 .abu{
-  text-align:center;
+  text-align:left;
 position: absolute;
-color: white;
 width: 1100px;
-margin-left: 0px;
-margin-top: 30px;
-text-decoration: color : white;
-font-family: 'Sofia';font-size: 22px;
-text-shadow: 50px;
+margin-left: 100px;
+margin-top: 100px;
+color : #B1365B;
+font-family: 'Sofia';
+font-size: 25px;
+text-shadow: 0px;
+font-weight: bold;
 display:block;
 box-sizing: border-box;
-
+font-family: 'Courier New', monospace;
+font-style: ;
+}
+.zz{
+  text-align: center;
+  text-align: left;
+  margin-left: 130px;
+  margin-top: 130px;
+  position: absolute;
+  font-size: 22px;
+box-sizing: border-box;
+color: white;
+font-family: 'Courier New', monospace;
 
 }
